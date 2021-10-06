@@ -1,0 +1,2 @@
+/*! For license information please see inline-rating.Af7tpRYYZ.js.LICENSE.txt */
+PMPRInlineUtil.registerListener("DOMContentLoaded",(function(){let t="pkg__dvncd_cms",e=PMPRUtil.getSettingByPath("rating.ajax.get_html","",t),n=PMPRUtil.getSettingByPath("post","",t);if(e&&n){let t={post:n,nonce:PMPRUtil.getNonce(),action:e};PMPRInlineUtil.ajaxRequest(t,(t=>{if(t.success&&t.data){let e=document.querySelector(".rating-container");PMPRInlineUtil.isEmpty(e)||PMPRInlineUtil.animateAppend(e,t.data)}}))}}));

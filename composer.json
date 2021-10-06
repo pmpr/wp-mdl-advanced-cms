@@ -1,0 +1,24 @@
+{
+  "name": "pmpr-pkg/wp-pkg-advanced-cms",
+  "type": "project",
+  "license": "proprietary",
+  "description": "Advanced CMS Package for Wordpress",
+  "keywords": [
+    "wordpress",
+    "package",
+    "cms"
+  ],
+  "require": {
+    "php": ">=7.4",
+    "pmpr-cmn/wp-cmn-foundation": "^dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pmpr\\Package\\AdvancedCMS\\": "src/Pmpr/Package/AdvancedCMS"
+    },
+    "files": [
+      "index.php"
+    ]
+  },
+  "minimum-stability": "dev"
+}

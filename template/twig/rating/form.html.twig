@@ -1,0 +1,28 @@
+<div class="rating-container" data-post="{{ post|esc_attr }}">
+    {% if render is defined and render %}
+
+        {% if user_rate is not defined or user_rate is empty %}
+
+            <span class="rating-title">{{ title|raw }}</span>
+            <p class="rating-guide">{{ guide_text|number|raw }}</p>
+            {{ rating_form|raw }}
+        {% endif %}
+
+        {% if result is defined
+            and result is not empty %}
+
+            <p class="rating-result">{{ result|raw }}</p>
+        {% endif %}
+
+        {% if user_rate is defined
+            and user_rate is not empty %}
+
+            <p class="user-rate">{{ user_rate|raw }}</p>
+        {% else %}
+
+            <p class="rating-message"></p>
+            {{ feedback_form|raw }}
+        {% endif %}
+    {% endif %}
+    {{ schema|raw }}
+</div>
