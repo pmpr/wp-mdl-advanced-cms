@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             615d91b157747             |
+    |             6160476918f4a             |
     |_______________________________________|
 */
- namespace Pmpr\Package\AdvancedCMS\Shortcode\Post; use Pmpr\Package\AdvancedCMS\Shortcode\Segment; class Post extends Segment { public function __construct() { goto sggkkgmeigoqaoky; sggkkgmeigoqaoky: $this->target = self::CONTENT_TARGETS; goto usoomsyiqkwkgeyi; usoomsyiqkwkgeyi: $this->parent = self::POST; goto geeosccccmmucqce; geeosccccmmucqce: parent::__construct(); goto emeaagoguiuyieui; emeaagoguiuyieui: } }
+ namespace Pmpr\Package\AdvancedCMS\Shortcode\Post; use Pmpr\Package\AdvancedCMS\Shortcode\Segment; class Post extends Segment { public function __construct() { goto uwacyygkmmwmqumm; toacieymkgsmouum: $this->parent = self::POST; goto uooyycimwyiscwik; uwacyygkmmwmqumm: $this->target = self::CONTENT_TARGETS; goto toacieymkgsmouum; uooyycimwyiscwik: parent::__construct(); goto wgyckicucikswwgc; wgyckicucikswwgc: } }
