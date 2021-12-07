@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             61680f16d93d1             |
+    |             61afe12c38792             |
     |_______________________________________|
 */
- namespace Pmpr\Package\AdvancedCMS\Shortcode\Text; use Pmpr\Common\Foundation\Media\Icon\Interfaces\IconFontawesomeInterface; class Example extends Text { public function gogaagekwoisaqgu() { $this->icon = IconFontawesomeInterface::ICON_PAPERCLIP; $this->title = __("\x45\170\x61\x6d\x70\154\145", PR__PKG__ADVANCED_CMS); } }
+ namespace Pmpr\Package\AdvancedCMS\Shortcode\Text; use Pmpr\Common\Foundation\Media\Icon\Interfaces\IconFontawesomeInterface; class Example extends Text { public function gogaagekwoisaqgu() { $this->icon = IconFontawesomeInterface::ICON_PAPERCLIP; $this->title = __("\105\x78\x61\155\x70\x6c\x65", PR__PKG__ADVANCED_CMS); } }

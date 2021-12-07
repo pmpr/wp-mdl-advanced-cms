@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             61680f16d93d1             |
+    |             61afe12c38792             |
     |_______________________________________|
 */
- namespace Pmpr\Package\AdvancedCMS; use Pmpr\Common\Foundation\FormMaker\Admin\Element\Setting as BaseClass; class Setting extends BaseClass { public function __construct() { goto ysicqksgomomkoek; ocgsiomyyckcausy: $this->name = $wksoawcgagcgoask; goto ccegsywqocccgegu; ysicqksgomomkoek: $wksoawcgagcgoask = self::akuociswqmoigkas(); goto ocgsiomyyckcausy; swqkyoemiswegyci: parent::__construct(); goto yuqiqaquoygggoqc; ccegsywqocccgegu: $this->parentMenu = $wksoawcgagcgoask; goto swqkyoemiswegyci; yuqiqaquoygggoqc: } public function gogaagekwoisaqgu() { $this->menuTitle = __("\x53\x65\164\164\151\x6e\147", PR__PKG__ADVANCED_CMS); $this->pageTitle = __("\101\x64\166\x61\x6e\x63\145\144\40\x43\x4d\123\40\123\x65\164\x74\x69\156\x67", PR__PKG__ADVANCED_CMS); } }
+ namespace Pmpr\Package\AdvancedCMS; use Pmpr\Common\Foundation\FormMaker\Admin\Element\Setting as BaseClass; class Setting extends BaseClass { public function __construct() { goto mseimosiimuuceoa; mseimosiimuuceoa: $wksoawcgagcgoask = self::akuociswqmoigkas(); goto scaoisaaceiaweoe; mcgcqaiwmkewmwue: $this->parentMenu = $wksoawcgagcgoask; goto ziggykossqqayaki; scaoisaaceiaweoe: $this->name = $wksoawcgagcgoask; goto mcgcqaiwmkewmwue; ziggykossqqayaki: parent::__construct(); goto sooqqqougsgcumko; sooqqqougsgcumko: } public function gogaagekwoisaqgu() { $this->menuTitle = __("\123\145\164\164\151\156\147", PR__PKG__ADVANCED_CMS); $this->pageTitle = __("\x41\x64\x76\141\156\143\145\x64\40\103\115\x53\x20\123\x65\164\x74\x69\x6e\147", PR__PKG__ADVANCED_CMS); } }
