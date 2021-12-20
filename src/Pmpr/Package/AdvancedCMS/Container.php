@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             61b74f31bc925             |
+    |             61c027c84179e             |
     |_______________________________________|
 */
  namespace Pmpr\Package\AdvancedCMS; use Pmpr\Common\Foundation\Container\Container as BaseClass; class Container extends BaseClass { public function __construct() { $this->settingObj = Setting::symcgieuakksimmu(); parent::__construct(); } }
