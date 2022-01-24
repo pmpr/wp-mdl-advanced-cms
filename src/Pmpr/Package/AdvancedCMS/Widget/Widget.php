@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             61d45eee7c0b2             |
+    |             61eed0dae8e05             |
     |_______________________________________|
 */
  namespace Pmpr\Package\AdvancedCMS\Widget; use Pmpr\Package\AdvancedCMS\Container; class Widget extends Container { public function __construct() { parent::__construct(); $this->iemaakgqgqosiecm(); } public function iemaakgqgqosiecm() { Post::symcgieuakksimmu(); Taxonomy::symcgieuakksimmu(); } }
