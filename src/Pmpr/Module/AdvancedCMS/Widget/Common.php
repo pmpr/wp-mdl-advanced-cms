@@ -4,4 +4,4 @@
     |             624001b728559             |
     |_______________________________________|
 */
- use Pmpr\Module\AdvancedCMS\AdvancedCMS; AdvancedCMS::symcgieuakksimmu();
+ namespace Pmpr\Module\AdvancedCMS\Widget; use Pmpr\Common\Foundation\Widget; abstract class Common extends Widget { }

@@ -4,4 +4,4 @@
     |             624001b728559             |
     |_______________________________________|
 */
- use Pmpr\Module\AdvancedCMS\AdvancedCMS; AdvancedCMS::symcgieuakksimmu();
+ namespace Pmpr\Module\AdvancedCMS\Metadata; use Pmpr\Module\AdvancedCMS\Container; class Common extends Container { }
