@@ -1,7 +1,0 @@
-<?php
-/*   _______________________________________
-    |  Obfuscated by PMPR - Php Obfuscator  |
-    |             623bb95d2d887             |
-    |_______________________________________|
-*/
- namespace Pmpr\Package\AdvancedCMS\Breadcrumb; use Pmpr\Common\Foundation\Manipulate\Post\ManipulatePost; use Pmpr\Common\Foundation\Manipulate\Type\ManipulateArray; use Pmpr\Common\Foundation\Widget as BaseClass; class Widget extends BaseClass { public function __construct() { parent::__construct(__("\x42\162\145\x61\x64\143\x72\165\155\x62", PR__PKG__ADVANCED_CMS), __("\104\151\x73\160\x6c\141\x79\40\164\150\x65\40\x62\162\145\141\x64\x63\162\x75\155\x62\56", PR__PKG__ADVANCED_CMS), "\142\162\x65\x61\x64\143\x72\x75\x6d\x62"); } public function ugmceccgwaaaigiy() : array { return [self::ccyeycyyykwuymsy => ["\x74\171\x70\x65" => "\163\x65\154\145\143\164\55\160\157\x73\x74", "\156\141\x6d\145" => __("\x45\170\x63\x6c\x75\144\x65\40\120\x61\147\x65\x73", PR__PKG__ADVANCED_CMS), "\151\164\x65\155\163" => ["\160\x61\x67\145"], "\141\x73\x2d\155\x75\154\164\151\160\x6c\145"]]; } public function qoqyomiqwooaeoiy($ywmkwiwkosakssii = [], $owgumcsyqsamiemg = [], $qookweymeqawmcwo = []) : bool { $post = ManipulatePost::mwikyscisascoeea(); $aowmesqseaiqimyu = ManipulateArray::get($owgumcsyqsamiemg, self::ccyeycyyykwuymsy, []); return !in_array($post, $aowmesqseaiqimyu); } public function gayqqwwuycceosii($ywmkwiwkosakssii = [], $owgumcsyqsamiemg = []) : array { return ["\x63\157\156\x74\145\x6e\x74" => Generator::symcgieuakksimmu()->sywokgmoskcocqgy()]; } }
