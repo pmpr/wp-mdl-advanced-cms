@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6267964e7b526             |
+    |             6284d9a500ecb             |
     |_______________________________________|
 */
- namespace Pmpr\Module\AdvancedCMS\Shortcode\Text; use Pmpr\Common\Foundation\Media\Icon\Interfaces\IconFontawesomeInterface; class Free extends Text { public function gogaagekwoisaqgu() { $this->icon = IconFontawesomeInterface::gqasygwgmouskwak; $this->title = __("\x46\162\145\x65\x20\102\157\x78", PR__MDL__ADVANCED_CMS); } public function kyaweigsqwomykaa($wwgucssaecqekuek = []) : array { if (!(self::uqggkiomyiceyooa() === self::class)) { goto yoqakewookqoqacm; } $wwgucssaecqekuek[self::qescuiwgsyuikume] = ''; yoqakewookqoqacm: return parent::kyaweigsqwomykaa($wwgucssaecqekuek); } }
+ namespace Pmpr\Module\AdvancedCMS\Shortcode\Text; use Pmpr\Common\Foundation\Media\Icon\Interfaces\IconFontawesomeInterface; class Free extends Text { public function gogaagekwoisaqgu() { $this->icon = IconFontawesomeInterface::gqasygwgmouskwak; $this->title = __("\x46\x72\145\145\40\102\x6f\x78", PR__MDL__ADVANCED_CMS); } public function kyaweigsqwomykaa($wwgucssaecqekuek = []) : array { if (!(self::uqggkiomyiceyooa() === self::class)) { goto uycesqqkoeamocgm; } $wwgucssaecqekuek[self::qescuiwgsyuikume] = ''; uycesqqkoeamocgm: return parent::kyaweigsqwomykaa($wwgucssaecqekuek); } }

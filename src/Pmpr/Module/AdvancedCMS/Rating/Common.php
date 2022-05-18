@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6267964e7b526             |
+    |             6284d9a500ecb             |
     |_______________________________________|
 */
- namespace Pmpr\Module\AdvancedCMS\Rating; use Pmpr\Module\AdvancedCMS\Container; class Common extends Container { public function gaogimymcgsiqois() : bool { return $this->sscegwueamckwmcy($this->ygyygikyocoymgaw("\143\x61\156\x5f\141\x64\x64\137\162\141\x74\151\x6e\x67"), true); } }
+ namespace Pmpr\Module\AdvancedCMS\Rating; use Pmpr\Module\AdvancedCMS\Container; class Common extends Container { public function gaogimymcgsiqois() : bool { return $this->sscegwueamckwmcy($this->ygyygikyocoymgaw("\x63\x61\x6e\137\141\x64\x64\137\x72\141\x74\x69\x6e\147"), true); } }

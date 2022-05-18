@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Advanced CMS\n"
-"POT-Creation-Date: 2022-04-25 13:43+0430\n"
-"PO-Revision-Date: 2022-04-25 13:43+0430\n"
+"POT-Creation-Date: 2022-05-14 15:20+0430\n"
+"PO-Revision-Date: 2022-05-14 16:37+0430\n"
 "Last-Translator: Farshad Asgharzade <Farshad_asgharzade@hotmail.com>\n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 #: src/Pmpr/Module/AdvancedCMS/AdvancedCMS.php:69
 msgid "Advanced CMS"
-msgstr "محتوا پیشرفته"
+msgstr "محتوای پیشرفته"
 
 #: src/Pmpr/Module/AdvancedCMS/Breadcrumb/Generator.php:73
 #, php-format
@@ -83,46 +83,46 @@ msgstr "خطای ناشناخته"
 msgid "Something is wrong, please try again."
 msgstr "اشکالی در فرایند عملیات رخ داده است، لطفا دوباره امتحان کنید."
 
-#: src/Pmpr/Module/AdvancedCMS/Comment/Ajax.php:106
+#: src/Pmpr/Module/AdvancedCMS/Comment/Ajax.php:107
 msgid "Required data not passed"
 msgstr "داده‌های الزامی ارسال نشد‌اند"
 
-#: src/Pmpr/Module/AdvancedCMS/Comment/Cover.php:113
+#: src/Pmpr/Module/AdvancedCMS/Comment/Cover.php:116
 #: src/Pmpr/Module/AdvancedCMS/Comment/Setting.php:41
 msgid "Comment"
 msgstr "دیدگاه‌"
 
-#: src/Pmpr/Module/AdvancedCMS/Comment/Cover.php:119
+#: src/Pmpr/Module/AdvancedCMS/Comment/Cover.php:122
 msgid "There are no comments yet."
 msgstr "هنوز دیدگاهی وجود ندارد."
 
-#: src/Pmpr/Module/AdvancedCMS/Comment/Cover.php:121
+#: src/Pmpr/Module/AdvancedCMS/Comment/Cover.php:124
 msgid "Your comment is awaiting moderation."
 msgstr "دیدگاه شما پس از تایید نمایش داده خواهد شد."
 
-#: src/Pmpr/Module/AdvancedCMS/Comment/Cover.php:204
+#: src/Pmpr/Module/AdvancedCMS/Comment/Cover.php:208
 msgid "Author Logo"
 msgstr "لوگو نویسنده"
 
-#: src/Pmpr/Module/AdvancedCMS/Comment/Cover.php:236
+#: src/Pmpr/Module/AdvancedCMS/Comment/Cover.php:240
 #, php-format
 msgid "%1$s at %2$s"
 msgstr "‏%1$s در %2$s"
 
-#: src/Pmpr/Module/AdvancedCMS/Comment/Form.php:77
+#: src/Pmpr/Module/AdvancedCMS/Comment/Form.php:81
 #: src/Pmpr/Module/AdvancedCMS/Rating/Cover.php:122
 msgid "Submit"
 msgstr "تایید"
 
-#: src/Pmpr/Module/AdvancedCMS/Comment/Form.php:80
+#: src/Pmpr/Module/AdvancedCMS/Comment/Form.php:84
 msgid "Cancel reply"
 msgstr "لغو پاسخ"
 
-#: src/Pmpr/Module/AdvancedCMS/Comment/Form.php:170
+#: src/Pmpr/Module/AdvancedCMS/Comment/Form.php:174
 msgid "Toggle Form"
 msgstr "نمایش فرم"
 
-#: src/Pmpr/Module/AdvancedCMS/Comment/Form.php:185
+#: src/Pmpr/Module/AdvancedCMS/Comment/Form.php:189
 #, php-format
 msgid "Dear %s, Your comment has been sent successfully."
 msgstr "%s گرامی، دیدگاه شما با موفقیت ثبت شد."
@@ -531,7 +531,7 @@ msgstr "تنظیمات"
 
 #: src/Pmpr/Module/AdvancedCMS/Setting.php:30
 msgid "Advanced CMS Setting"
-msgstr "تنظیمات محتوا پیشرفته"
+msgstr "تنظیمات محتوای پیشرفته"
 
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Blog.php:31
 msgid "Blog"
@@ -816,7 +816,7 @@ msgstr "توضیحات کلی شورتکد"
 
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Shortcode.php:43
 msgid "CMS Shortcodes"
-msgstr "شورت‌کدهای محتوا پیشرفته"
+msgstr "شورت‌کدهای محتوای پیشرفته"
 
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Shortcode.php:71
 msgid "Internal Link"
