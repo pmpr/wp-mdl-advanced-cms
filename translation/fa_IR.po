@@ -856,7 +856,7 @@ msgid "Rights"
 msgstr "باید‌ها"
 
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Text/Stat.php:16
-msgid "Stat and Information"
+msgid "Stats and Information"
 msgstr "آمار و اطلاعات"
 
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Text/Tip.php:16
