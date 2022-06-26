@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Pmpr Advanced CMS\n"
-"POT-Creation-Date: 2022-05-14 15:20+0430\n"
-"PO-Revision-Date: 2022-05-14 16:37+0430\n"
+"POT-Creation-Date: 2022-06-13 12:25+0430\n"
+"PO-Revision-Date: 2022-06-13 12:26+0430\n"
 "Last-Translator: Farshad Asgharzade <Farshad_asgharzade@hotmail.com>\n"
 "Language-Team: \n"
 "Language: fa_IR\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-WPHeader: index.php\n"
 "X-Source-Language: en\n"
@@ -22,7 +22,7 @@ msgstr ""
 "X-Poedit-SearchPathExcluded-0: lib\n"
 "X-Poedit-SearchPathExcluded-1: *.js\n"
 
-#: src/Pmpr/Module/AdvancedCMS/AdvancedCMS.php:69
+#: src/Pmpr/Module/AdvancedCMS/AdvancedCMS.php:75
 msgid "Advanced CMS"
 msgstr "محتوای پیشرفته"
 
@@ -131,7 +131,7 @@ msgstr "%s گرامی، دیدگاه شما با موفقیت ثبت شد."
 #: src/Pmpr/Module/AdvancedCMS/Rating/Setting.php:36
 #: src/Pmpr/Module/AdvancedCMS/Setting.php:39
 #: src/Pmpr/Module/AdvancedCMS/Setting.php:43
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:129
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:120
 #: src/Pmpr/Module/AdvancedCMS/TableOfContent/Setting.php:35
 msgid "General"
 msgstr "عمومی"
@@ -289,7 +289,7 @@ msgstr "بازخوردها"
 #: src/Pmpr/Module/AdvancedCMS/Rating/Model/Feedback.php:30
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Download.php:103
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Link/Wikipedia.php:41
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:77
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:68
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Shortcode.php:63
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Text/Text.php:31
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Text/Text.php:41
@@ -525,6 +525,27 @@ msgstr "رابطه بین تکسونومی‌ها"
 msgid "Relation"
 msgstr "رابطه"
 
+#: src/Pmpr/Module/AdvancedCMS/Salary/Product.php:52
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Post/Product.php:18
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Post/Product.php:36
+msgid "Product"
+msgstr "محصول"
+
+#: src/Pmpr/Module/AdvancedCMS/Salary/Product.php:68
+#, fuzzy
+#| msgid "Related Posts"
+msgid "Related Product"
+msgstr "نوشته‌های مرتبط"
+
+#: src/Pmpr/Module/AdvancedCMS/Salary/Product.php:162
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Post/Product.php:82
+msgid "Buy Product"
+msgstr "خرید محصول"
+
+#: src/Pmpr/Module/AdvancedCMS/Salary/Salary.php:20
+msgid "Advanced CMS Module"
+msgstr "ماژول محتوای پیشرفته"
+
 #: src/Pmpr/Module/AdvancedCMS/Setting.php:29
 msgid "Setting"
 msgstr "تنظیمات"
@@ -555,7 +576,7 @@ msgid "Stats"
 msgstr "آمار"
 
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Blog.php:64
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:71
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:62
 msgid "Call to Action Description"
 msgstr ""
 
@@ -563,72 +584,72 @@ msgstr ""
 msgid "Call to Action Text"
 msgstr ""
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:43
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:36
 msgid "Code"
 msgstr "کد"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:53
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:46
 msgid "Language"
 msgstr "زبان"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:55
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:48
 msgid "PHP"
 msgstr "پی اچ پی"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:56
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:49
 msgid "CSS"
 msgstr "سی اس اس"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:57
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:50
 msgid "SASS"
 msgstr ""
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:58
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:51
 msgid "SCSS"
 msgstr ""
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:59
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:52
 msgid "JSON"
 msgstr ""
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:60
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:53
 msgid "Nginx"
 msgstr ""
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:61
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:54
 msgid "HTML Mixed"
 msgstr "مارکاپ اچ تی ام ال"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:62
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:55
 msgid "JavaScript"
 msgstr "جاوااسکریپت"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:63
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:56
 msgid "Apache Configuration"
 msgstr "پیکربندی آپاچی"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:66
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:59
 msgid "Select your Opinion code language"
 msgstr "زبان برنامه نویسی مورد نظر خود را انتخاب کنید"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:70
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:63
 msgid "Code in Right"
 msgstr "کد در سمت راست"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:71
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:64
 msgid "Check this item, if you want show code in right fo screen"
 msgstr ""
 "با علامت زدن این گزینه، کد مورد نظر در قسمت سمت راست صفحه نمایش داده خواهد شد"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:76
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:69
 msgid "Code Text"
 msgstr "متن کد"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:77
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:70
 msgid "Write your code here."
 msgstr "کد مورد نظر خود را اینجا بنویسید."
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:84
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Code.php:77
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Download.php:109
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Post/Product.php:59
 msgid "Description"
@@ -708,7 +729,7 @@ msgstr "دارای Container"
 
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Link/Link.php:30
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Link/Wikipedia.php:35
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:79
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:70
 msgid "Link"
 msgstr "پیوند"
 
@@ -731,11 +752,6 @@ msgstr "مطلب مرتبط"
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Link/Wikipedia.php:25
 msgid "Wikipedia"
 msgstr "ویکی‌پدیا"
-
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Post/Product.php:18
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Post/Product.php:36
-msgid "Product"
-msgstr "محصول"
 
 #: src/Pmpr/Module/AdvancedCMS/Shortcode/Post/Product.php:38
 msgid "Select product."
@@ -766,51 +782,47 @@ msgstr "می‌توانید شرح محصول را در نمایش شورت‌ک
 msgid "Product Introduction"
 msgstr "اطلاعات محصول"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Post/Product.php:82
-msgid "Buy Product"
-msgstr "خرید محصول"
-
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:75
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:66
 msgid "Call to Action items"
 msgstr ""
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:82
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:73
 msgid "Size"
 msgstr "اندازه"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:83
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:74
 msgid "Small"
 msgstr "کوچک"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:84
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:75
 msgid "Medium"
 msgstr "متوسط"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:85
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:76
 msgid "Large"
 msgstr "بزرگ"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:100
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:91
 msgid "Alignment"
 msgstr "چینش"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:102
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:93
 msgid "Left align"
 msgstr "چپ چین"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:103
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:94
 msgid "Center align"
 msgstr "وسط چین"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:104
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:95
 msgid "Right align"
 msgstr "راست چین"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:115
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:106
 msgid "Shortcode Title"
 msgstr "عنوان کلی شورتکد"
 
-#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:119
+#: src/Pmpr/Module/AdvancedCMS/Shortcode/Segment.php:110
 msgid "Shortcode Description"
 msgstr "توضیحات کلی شورتکد"
 
