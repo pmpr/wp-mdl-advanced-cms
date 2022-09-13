@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             62cb912a6978c             |
+    |             6320d863ebe26             |
     |_______________________________________|
 */
- namespace Pmpr\Module\AdvancedCMS\Comment; use Pmpr\Common\Foundation\Manipulate\ManipulateAjax; use Pmpr\Common\Foundation\Manipulate\ManipulateQuery; class Comment extends Common { public function __construct() { parent::__construct(); $this->iemaakgqgqosiecm(); } public function iemaakgqgqosiecm() { if (ManipulateAjax::mcgoysmkqsqooceq()) { goto wagqgeqymeqoeuyi; } if (ManipulateQuery::euqowsuwmgokuqqo()) { goto qoqskyuuwueqkquk; } Form::symcgieuakksimmu(); Cover::symcgieuakksimmu(); goto msemumccgceyugmg; wagqgeqymeqoeuyi: Ajax::symcgieuakksimmu(); goto msemumccgceyugmg; qoqskyuuwueqkquk: Admin::symcgieuakksimmu(); Setting::symcgieuakksimmu(); msemumccgceyugmg: } }
+ namespace Pmpr\Module\AdvancedCMS\Comment; use Pmpr\Common\Foundation\Manipulate\ManipulateAjax; use Pmpr\Common\Foundation\Manipulate\ManipulateQuery; class Comment extends Common { public function __construct() { parent::__construct(); $this->iemaakgqgqosiecm(); } public function iemaakgqgqosiecm() { if (ManipulateAjax::mcgoysmkqsqooceq()) { goto sukskmcwsoysiuqu; } if (ManipulateQuery::euqowsuwmgokuqqo()) { goto igymseewwyiocoug; } Form::symcgieuakksimmu(); Cover::symcgieuakksimmu(); goto cgewcsueoyaeikgm; sukskmcwsoysiuqu: Ajax::symcgieuakksimmu(); goto cgewcsueoyaeikgm; igymseewwyiocoug: Admin::symcgieuakksimmu(); Setting::symcgieuakksimmu(); cgewcsueoyaeikgm: } }
