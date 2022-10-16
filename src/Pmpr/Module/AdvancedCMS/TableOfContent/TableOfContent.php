@@ -1,7 +1,0 @@
-<?php
-/*   _______________________________________
-    |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6328195a2a0d2             |
-    |_______________________________________|
-*/
- namespace Pmpr\Module\AdvancedCMS\TableOfContent; use Pmpr\Common\Foundation\Manipulate\Post\ManipulatePost; use Pmpr\Common\Foundation\Manipulate\Type\ManipulateArray; class TableOfContent extends Common { public function __construct() { parent::__construct(); $this->iemaakgqgqosiecm(); } public function kgquecmsgcouyaya() { $this->cecaguuoecmccuse("\167\x70\137\151\156\163\x65\x72\164\137\160\157\x73\x74\x5f\x64\141\164\x61", [$this, "\x6d\165\x65\147\163\x6d\155\151\x63\x73\x71\x73\147\165\x63\155"]); parent::kgquecmsgcouyaya(); } public function muegsmmicsqsgucm($icwicymcioeyeyek) { return $this->iumiqmcwkquqecso($icwicymcioeyeyek, true); } public function iumiqmcwkquqecso($icwicymcioeyeyek, $cwwowqyuwccuykom = false) { $iueymcwwscwqkiyq = ManipulateArray::get($icwicymcioeyeyek, "\x70\157\x73\x74\137\x73\x74\x61\164\x75\x73"); if (!(in_array(ManipulatePost::gueasuouwqysmomu($icwicymcioeyeyek), $this->esciskwmewkgwaik()) && $iueymcwwscwqkiyq === "\160\165\142\x6c\151\x73\x68")) { goto qicwaskssogcokgm; } $icwicymcioeyeyek = Generator::symcgieuakksimmu()->goeuwocuuigcicgu($icwicymcioeyeyek, $cwwowqyuwccuykom); qicwaskssogcokgm: return $icwicymcioeyeyek; } public function iemaakgqgqosiecm() { Widget::symcgieuakksimmu(); if (!is_admin()) { goto uguigkcmukuouway; } Setting::symcgieuakksimmu(); uguigkcmukuouway: } }
