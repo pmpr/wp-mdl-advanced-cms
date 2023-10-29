@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             65195d3608d14             |
+    |             653e6ce8959f3             |
     |_______________________________________|
 */
- namespace Pmpr\Module\AdvancedCMS\Media; use Pmpr\Module\AdvancedCMS\Media\Video\Video; class Media extends Common { public function __construct() { parent::__construct(); $this->iemaakgqgqosiecm(); } public function iemaakgqgqosiecm() { Video::symcgieuakksimmu(); } }
+ namespace Pmpr\Module\AdvancedCMS\Media; use Pmpr\Module\AdvancedCMS\Media\Video\Video; class Media extends Common { public function mameiwsayuyquoeq() { Video::symcgieuakksimmu(); } }
