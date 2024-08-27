@@ -1,10 +1,8 @@
 {
-  "code.js": "/js/code.sGh_eewPz.js",
-  "relation.css": "/css/relation.sGh_eewPz.css",
-  "relation.js": "/js/relation.sGh_eewPz.js",
-  "mirror.css": "/css/mirror.sGh_eewPz.css",
-  "mirror.js": "/js/mirror.sGh_eewPz.js",
-  "rating.css": "/css/rating.sGh_eewPz.css",
-  "rating.js": "/js/rating.sGh_eewPz.js",
-  "comment.js": "/js/comment.sGh_eewPz.js"
+  "shortcode.js": "/js/shortcode.JD4kvL7PS.js",
+  "tinymce-plugin.js": "/js/tinymce-plugin.JD4kvL7PS.js",
+  "mirror.css": "/css/mirror.JD4kvL7PS.css",
+  "mirror.js": "/js/mirror.JD4kvL7PS.js",
+  "video.css": "/css/video.JD4kvL7PS.css",
+  "video.js": "/js/video.JD4kvL7PS.js"
 }

@@ -1,30 +1,8 @@
 {
-  "name": "pmpr-mdl/wp-mdl-advanced-cms",
-  "type": "project",
-  "license": "proprietary",
-  "description": "Advanced CMS Module for Wordpress",
-  "keywords": [
-    "wordpress",
-    "package",
-    "cms"
-  ],
-  "require": {
-    "php": ">=8.2",
-    "pmpr-cmn/wp-cmn-foundation": "~1.4"
-  },
   "prod-require": {
     "php": "8.2",
     "wordpress": "6.0",
     "wp-cmn-foundation": "latest"
   },
-  "autoload": {
-    "psr-4": {
-      "Pmpr\\Module\\AdvancedCMS\\": "src/Pmpr/Module/AdvancedCMS"
-    },
-    "files": [
-      "index.php"
-    ]
-  },
-  "minimum-stability": "dev",
-  "tag": "1.2.29"
+  "tag": "1.2.30"
 }
